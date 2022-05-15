@@ -1,7 +1,12 @@
 # csu_workshop_nlp
+
 csu_workshop_nlp
+
 Репозитория для курса
+
 dataset: nerel_short
+
+https://huggingface.co/datasets/surdan/nerel_short
 
 Описание
 ./notebooks - директория с jupyter ноутбуками
