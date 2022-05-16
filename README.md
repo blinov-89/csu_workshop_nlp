@@ -2,7 +2,7 @@
 
 csu_workshop_nlp
 
-Репозитория для курса
+Репозиторий для курса
 
 dataset: nerel_short
 
