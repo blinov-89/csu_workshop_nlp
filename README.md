@@ -11,6 +11,7 @@ https://huggingface.co/datasets/surdan/nerel_short
 model trained: https://huggingface.co/DeepPavlov/rubert-base-cased-sentence
 
 Epoch	Training Loss	Validation Loss	Precision	Recall	F1	Accuracy
+
 ----25	0.000900	0.930530	0.793095	0.789257	0.791171	0.898096
 # Описание
 
