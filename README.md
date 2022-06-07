@@ -8,6 +8,9 @@ dataset: nerel_short
 
 https://huggingface.co/datasets/surdan/nerel_short
 
+model trained: https://huggingface.co/DeepPavlov/rubert-base-cased-sentence
+
+
 # Описание
 
 - ./notebooks - директория с jupyter ноутбуками
