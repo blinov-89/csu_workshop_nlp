@@ -18,8 +18,8 @@ Epoch	Training Loss	Validation Loss	Precision	Recall	F1	Accuracy
 # Описание
 
 - ./notebooks - директория с jupyter ноутбуками
-- Запускать:
-- _token_classification_in_python_on_3_epoch_ipynb_.py
+Запускать:
+_token_classification_in_python_on_3_epoch_ipynb_.py
 - остальные ноутбуки тренеровочные
 
 - ./scripts - директория под python скрипты
