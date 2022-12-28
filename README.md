@@ -10,9 +10,9 @@ https://huggingface.co/datasets/surdan/nerel_short
 
 model trained: https://huggingface.co/DeepPavlov/rubert-base-cased-sentence
 
-Запускать:
+## Запускать:
 
-_token_classification_in_python_on_3_epoch_ipynb_.py
+#### _token_classification_in_python_on_3_epoch_ipynb_.py
 
 - остальные ноутбуки тренеровочные
 
